@@ -1,0 +1,10 @@
+C:\Projects\AdvanceWars\AdvanceWars\bin\AdvanceWars.dll
+C:\Projects\AdvanceWars\AdvanceWars\bin\AdvanceWars.pdb
+C:\Projects\AdvanceWars\AdvanceWars\obj\Debug\AdvanceWars.dll
+C:\Projects\AdvanceWars\AdvanceWars\obj\Debug\AdvanceWars.pdb
+C:\Projects\AdvanceWars\AdvanceWars\obj\Debug\AdvanceWars.csprojResolveAssemblyReference.cache
+E:\# BACKUP 2014-06-03\# Projects\AdvanceWars\AdvanceWars\bin\AdvanceWars.dll
+E:\# BACKUP 2014-06-03\# Projects\AdvanceWars\AdvanceWars\bin\AdvanceWars.pdb
+E:\# BACKUP 2014-06-03\# Projects\AdvanceWars\AdvanceWars\obj\Debug\AdvanceWars.csprojResolveAssemblyReference.cache
+E:\# BACKUP 2014-06-03\# Projects\AdvanceWars\AdvanceWars\obj\Debug\AdvanceWars.dll
+E:\# BACKUP 2014-06-03\# Projects\AdvanceWars\AdvanceWars\obj\Debug\AdvanceWars.pdb
