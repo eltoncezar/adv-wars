@@ -76,4 +76,3 @@ var MapRenderer = (function () {
     };
     return MapRenderer;
 })();
-//# sourceMappingURL=MapRenderer.js.map

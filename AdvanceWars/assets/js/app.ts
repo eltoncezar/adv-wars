@@ -1,5 +1,5 @@
-﻿/// <reference path="Manager.ts" />
+/// <reference path="Manager.ts" />
 
 Manager.preload();
-///Manager.create();
-Manager.update();
+Manager.create();
+//Manager.update();

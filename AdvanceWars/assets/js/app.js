@@ -1,6 +1,4 @@
-﻿/// <reference path="Manager.ts" />
+/// <reference path="Manager.ts" />
 Manager.preload();
-
-///Manager.create();
-Manager.update();
-//# sourceMappingURL=app.js.map
+Manager.create();
+//Manager.update();
