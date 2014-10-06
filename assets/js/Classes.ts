@@ -1,4 +1,7 @@
-﻿module Classes {
+/// <reference path="Utils.ts" />
+/// <reference path="Manager.ts" />
+
+module Classes {
     //#region Base Classes
 
     export class Dictionary<T> {

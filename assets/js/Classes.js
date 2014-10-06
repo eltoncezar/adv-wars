@@ -1,4 +1,6 @@
-﻿var __extends = this.__extends || function (d, b) {
+/// <reference path="Utils.ts" />
+/// <reference path="Manager.ts" />
+var __extends = this.__extends || function (d, b) {
     for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
     function __() { this.constructor = d; }
     __.prototype = b.prototype;
@@ -333,3 +335,4 @@ var Classes;
     Classes.Tile = Tile;
     ;
 })(Classes || (Classes = {}));
+//# sourceMappingURL=Classes.js.map

@@ -186,3 +186,4 @@ var jsonMap = {
     "width": 35
 };
 //#endregion jsonMap
+//# sourceMappingURL=Manager.js.map
